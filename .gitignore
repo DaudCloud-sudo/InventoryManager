@@ -1,0 +1,14 @@
+# Build output - generated, never committed
+build/
+*.o
+*.obj
+*.exe
+inventory
+inventory_tests
+
+# Editor and OS clutter
+.vscode/
+.vs/
+*.swp
+Thumbs.db
+.DS_Store

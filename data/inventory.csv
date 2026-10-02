@@ -1,0 +1,4 @@
+sku,name,category,quantity,price_cents,reorder_level
+KB-104,Mechanical Keyboard,Peripherals,7,8999,5
+MS-220,Wireless Mouse,Peripherals,31,2499,10
+CB-USB3,USB-C Cable 2m,Cables,0,799,25
